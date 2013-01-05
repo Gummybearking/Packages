@@ -1,0 +1,8 @@
+Packages:
+  test:
+    contents:
+      DIAMOND_SWORD:
+        Damage: 2
+		
+    price: 10
+MailBoxes:
